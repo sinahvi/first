@@ -6,7 +6,7 @@
                                   , "npm"  : "*"
                                   }
 ,  "repository"                 : { "type": "git"
-                                  , "url" : "https://github.com/spkvhktsnf/first.git" 
+                                  , "url" : "https://github.com/sinahvi/first.git" 
                                   } 
 ,  "license"                    : "MIT" 
 ,  "dependencies"               : {}
