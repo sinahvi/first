@@ -1,4 +1,4 @@
-FROM armv7/alpine
+FROM armhf/alpine
 RUN apk add nodejs
 COPY . .
 EXPOSE 8080
